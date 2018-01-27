@@ -1,0 +1,10 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  padding: 24px;
+}
+.heading {
+  font-weight: 700;
+}
+.subheading {
+  font-weight: 300;
+}
